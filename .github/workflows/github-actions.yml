@@ -1,6 +1,5 @@
 
 name: Azure Web App Container Deployment
-
 on:
   push:
     branches:
