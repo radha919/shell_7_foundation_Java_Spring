@@ -1,5 +1,5 @@
 
-name: Azure Web App Container Deployment 
+name: Azure Web App Container Deployment  
 on:
   push:
     branches:
